@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Niccolò, I am a passionate iOS Engineer :iphone: from :it:
+
+### Contacts
+##### :bird: [Twitter](https://twitter.com/nic_fontana)
+##### :briefcase: [Linkedin](https://www.linkedin.com/in/nicfontana/)
