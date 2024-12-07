@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋 Hello, I’m Niccolò!
 
 <!--
 **NicFontana/NicFontana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Niccolò, I am a passionate iOS Engineer :iphone: from :it:
+🎯 **iOS Developer | Software Engineer | Tech Enthusiast**  
+🌍 Based in Italy :it:
 
-### Contacts
-##### :bird: [Twitter](https://twitter.com/nic_fontana)
-##### :briefcase: [Linkedin](https://www.linkedin.com/in/nicfontana/)
+## 🛠️ About Me  
+
+I'm a passionate software engineer specializing in **iOS development** with expertise in **Swift**, **SwiftUI** and **UIKit**. I enjoy crafting intuitive and performant applications, with a particular interest in **clean architecture** and **modular design**.
+
+- 🎓 Master's Degree in Computer Engineering.  
+- 💻 4+ years of experience in web and mobile app development.
+
+## 📈 Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicFontana&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicFontana&layout=compact&theme=radical)
+
+## 🤝 Let's Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/nicfontana/)  
+💬 [Twitter](https://twitter.com/nic_fontana)  
